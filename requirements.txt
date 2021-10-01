@@ -1,0 +1,6 @@
+# How to run this Notebooks:
+
+1. Download and install the Anaconda package
+2. If running Windows
+    a. Download and install commander 
+3. Download and install Jypyter Lab
