@@ -1,6 +1,9 @@
 # How to run this Notebooks:
 
-1. Download and install the Anaconda package
+1. Download and install the following software
+    a. Python v3.x (https://www.python.org/downloads/)
+    b. Pandas (https://pandas.pydata.org/docs/getting_started/install.html)
+    c. Requests (https://docs.python-requests.org/en/latest/)
+    d. Jupyter Notebooks (https://jupyter.org/)
 2. If running Windows
-    a. Download and install commander 
-3. Download and install Jypyter Lab
+    a. Download and install commander
