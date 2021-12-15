@@ -35,4 +35,4 @@ All the data processed in this Notebook is available on the  http://www.cao.ie w
 
 Report will go in here:
 
-![Histogram](https://raw.githubusercontent.com/przemekbil/FoDA_2021/main/out/hist_all_by_year.png)
+![Boxplot](https://raw.githubusercontent.com/przemekbil/FoDA_2021/main/out/box_all_by_year.png)
