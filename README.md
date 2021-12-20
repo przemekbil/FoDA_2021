@@ -28,13 +28,3 @@ All the data processed in this Notebook is available on the  http://www.cao.ie w
 
 
 ## Explore 'pyplot.ipynb'
-
-
-
-## CAO Points comparision findings
-
-Report will go in here:
-
-![Boxplot](/out/box_all_by_year.png)
-
-![Year_to_year_by_heI](/out/hei_year_by_year.png)
