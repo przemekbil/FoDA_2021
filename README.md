@@ -37,3 +37,7 @@ The goal of this notebook is to describe the purpose and use of the Matplotlib p
 * Histograms
 * Box plots
 I have selected these 3 plot types based on their usefulness in the data science.
+
+## data folder
+
+This folder contains all the data downloaded from the http://www.cao.ie website during my work on the CAO points project.
