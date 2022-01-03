@@ -5,5 +5,7 @@
     b. Pandas (https://pandas.pydata.org/docs/getting_started/install.html)
     c. Requests (https://docs.python-requests.org/en/latest/)
     d. Jupyter Notebooks (https://jupyter.org/)
+    e. Matplotlib (https://matplotlib.org/)
+    f. Seaborn (https://seaborn.pydata.org/)
 2. If running Windows
-    a. Download and install commander
+    a. Download and install commander (https://cmder.net/)
